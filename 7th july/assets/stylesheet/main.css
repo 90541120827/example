@@ -1,0 +1,30 @@
+body {
+	line-height: 1;
+	}
+	.header {
+	background-color: #00e1ff; 
+	color: #00e1ff;
+	text-align: center; 
+	padding: 20px;
+	} 
+
+
+a{
+	margin-left: 16px; margin-right: 16px;
+	 text-transform: uppercase; 
+	 text-decoration: none; 
+	 color: #000000; font-weight: 600;
+}
+	img {
+	width: 60%;
+
+	} .blog {
+	width: 600px;
+	margin: 0 auto; 
+}
+
+.time {
+color: #70706a;
+margin: 16px 0;
+text-transform: uppercase; }
+	
